@@ -1,0 +1,105 @@
+[
+  {
+    "errors": [
+      "Connection to American Heritage FCU may need attention. Your attention is needed at this institution's website. Please log in and follow the steps to resolve the issue."
+    ],
+    "accounts": [
+      {
+        "org": {
+          "domain": "www.americanheritagecu.org",
+          "sfin-url": "https://beta-bridge.simplefin.org/simplefin"
+        },
+        "id": "ACT-717f9936-961c-4ec5-9c52-eeaae41aeee0",
+        "name": "CHECKING ACCOUNT",
+        "currency": "USD",
+        "balance": "0.05",
+        "available-balance": "0.05",
+        "balance-date": 1733554031
+      },
+      {
+        "org": {
+          "domain": "www.americanheritagecu.org",
+          "sfin-url": "https://beta-bridge.simplefin.org/simplefin"
+        },
+        "id": "ACT-7c733342-4c86-46dd-809a-e2cc411220f6",
+        "name": "PRIMARY SAVINGS",
+        "currency": "USD",
+        "balance": "8266.27",
+        "available-balance": "8251.27",
+        "balance-date": 1733554031
+      },
+      {
+        "org": {
+          "domain": "www.americanheritagecu.org",
+          "sfin-url": "https://beta-bridge.simplefin.org/simplefin"
+        },
+        "id": "ACT-b2908952-f89f-486e-bb52-711138bd4bd0",
+        "name": "PRIMARY SAVINGS",
+        "currency": "USD",
+        "balance": "28494.77",
+        "available-balance": "28479.77",
+        "balance-date": 1733554031
+      },
+      {
+        "org": {
+          "domain": "www.americanheritagecu.org",
+          "sfin-url": "https://beta-bridge.simplefin.org/simplefin"
+        },
+        "id": "ACT-44aff4a1-0416-4ce8-8588-f7d1c1c4dc55",
+        "name": "CHECKING ACCOUNT",
+        "currency": "USD",
+        "balance": "0.00",
+        "available-balance": "0.00",
+        "balance-date": 1733554031
+      },
+      {
+        "org": {
+          "domain": "www.chase.com",
+          "sfin-url": "https://beta-bridge.simplefin.org/simplefin"
+        },
+        "id": "ACT-a37ed0d2-c03a-4af7-99dd-9c9159c67ab9",
+        "name": "Chase Sapphire Preferred",
+        "currency": "USD",
+        "balance": "-1583.36",
+        "available-balance": "0.00",
+        "balance-date": 1756842415
+      },
+      {
+        "org": {
+          "domain": "www.citizensbank.com",
+          "sfin-url": "https://beta-bridge.simplefin.org/simplefin"
+        },
+        "id": "ACT-efd35580-bb9f-4cb2-9841-64a8de1c38ec",
+        "name": "One Deposit Checking",
+        "currency": "USD",
+        "balance": "2147.80",
+        "available-balance": "2147.80",
+        "balance-date": 1756842463
+      },
+      {
+        "org": {
+          "domain": "www.citizensbank.com",
+          "sfin-url": "https://beta-bridge.simplefin.org/simplefin"
+        },
+        "id": "ACT-fa5f1700-4fa0-413d-9e4c-e8ed2139ed38",
+        "name": "One Deposit Savings",
+        "currency": "USD",
+        "balance": "3202.39",
+        "available-balance": "3202.39",
+        "balance-date": 1756842463
+      },
+      {
+        "org": {
+          "domain": "www.citizensbank.com",
+          "sfin-url": "https://beta-bridge.simplefin.org/simplefin"
+        },
+        "id": "ACT-48b29a3e-1190-4115-a900-5cd810f76495",
+        "name": "Mortgage",
+        "currency": "USD",
+        "balance": "-333426.06",
+        "available-balance": "0.00",
+        "balance-date": 1756842463
+      }
+    ]
+  }
+]
