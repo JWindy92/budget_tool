@@ -1,0 +1,9 @@
+pyproject.toml
+src/finance_pipeline/__init__.py
+src/finance_pipeline/simplefin.py
+src/finance_pipeline.egg-info/PKG-INFO
+src/finance_pipeline.egg-info/SOURCES.txt
+src/finance_pipeline.egg-info/dependency_links.txt
+src/finance_pipeline.egg-info/requires.txt
+src/finance_pipeline.egg-info/top_level.txt
+tests/test_pipeline.py
