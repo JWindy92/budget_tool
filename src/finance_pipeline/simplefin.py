@@ -30,7 +30,3 @@ def ingest_simplefin(
         json.dumps(balances, indent=2),
         encoding="utf-8",
     )
-
-
-if __name__ == "__main__":
-    ingest_simplefin(ACCESS_URL)
