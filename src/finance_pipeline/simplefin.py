@@ -26,7 +26,10 @@ def ingest_simplefin(
         for account in accounts
     ]
 
-    Path(output_path).write_text(
+    output = Path(output_path)
+    output.parent.mkdir(parents=True, exist_ok=True)
+
+    output.write_text(
         json.dumps(balances, indent=2),
         encoding="utf-8",
     )
